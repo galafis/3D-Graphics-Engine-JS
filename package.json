@@ -1,0 +1,19 @@
+{
+  "name": "3d-graphics-engine-js",
+  "version": "1.0.0",
+  "description": "Professional repository showcasing advanced development skills",
+  "homepage": "https://galafis.github.io/3D-Graphics-Engine-JS",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "galafis",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
+
