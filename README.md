@@ -2,8 +2,6 @@
 
 ![Hero Image](assets/hero.png)
 
-![Architecture Diagram](assets/architecture_diagram.png)
-
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
